@@ -34,7 +34,7 @@ main input{
 .btn button{
     padding: 1em;
     border: none;
-    border-top: 1px solid gray;
+    border-top: 1px solid black;
 }
 a{
     cursor: pointer;
